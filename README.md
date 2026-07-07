@@ -111,14 +111,6 @@ https://github.com/ShDmytros/I-am-Water
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShDmytros&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShDmytros&layout=compact&theme=github_dark)
-
----
-
 ## 📫 Contact Me
 
 📧 Email: shtuchkadmytro@gmail.com
